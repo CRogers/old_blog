@@ -47,4 +47,5 @@ This is part my functional programming library for js, [pun](https://github.com/
 ---
 
 **Tags:** javascript, coffeescript, functional-programming, currying, pun
+
 **Date:** 13/05/2012
